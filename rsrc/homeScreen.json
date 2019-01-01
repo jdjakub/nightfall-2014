@@ -1,0 +1,42 @@
+{
+	"screenName" : "home",
+	"resources" : {
+		"bg" : "backg_red.png",
+		"UI" : "ui.png",
+		"font" : "TerminalVector.ttf"
+	},
+	"background" : "bg",
+	"containers" : {
+		"titleTxt" : {
+			"x" : 0, "y" : 0,
+			"w" : "parent.w", "h" : "parent.h/3",
+			"fit" : ["centre"],
+			"widget" : {
+				"name" : "titleTxt",
+				"type" : "Image",
+				"tex" : "UI",
+				"subRect" : "title",
+				"layer" : 10
+			}
+		},
+		"buttons" : {
+			"x" : "parent.w/4", "y" : "titleTxt.h",
+			"w" : "parent.w/2", "h" : "parent.h - titleTxt.h",
+			"containers" : {
+				"netmapBtn" : {
+					"x" : 0, "y" : 0,
+					"w" : "parent.w", "h" : "parent.h/5",
+					"fit" : ["vcentre", "hstretch"]
+					"widget" : {
+						"name" : "netmapBtn",
+						"type" : "Button"
+						"rectMap" : "silveredButton",
+						"font" : "font",
+						"str" : "home.netmap",
+						"layer" : 10
+					}
+				}
+			}
+		}
+	}
+}

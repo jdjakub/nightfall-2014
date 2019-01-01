@@ -1,0 +1,9 @@
+{
+	"sectors" : {
+		"hack" : {
+			"move" : 2,
+			"max" : 4,
+			"actions" : ["slice"],
+		},
+	}
+}

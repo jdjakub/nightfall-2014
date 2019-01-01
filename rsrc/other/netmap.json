@@ -1,0 +1,16 @@
+{   
+	"nodes" : {
+		{
+			"id" : 12,
+			"corp" : 0,
+			"name" : "Financial records database",
+			"desc" : "This is the corrupted node Sandman mentioned. Destroy the corrupted programs to proceed.",
+			"securityLevel" : 2,
+			"nodeCredits" : 1000,
+			"containsCredits" : true,
+			"visible" : false,
+			"completed" : false,
+			"position" : [20, 14],
+		}
+	},
+}

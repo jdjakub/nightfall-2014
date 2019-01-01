@@ -1,0 +1,13 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\db_012.json" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="0" endPos="0" selMode="0" lang="Lua" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\init.lua" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\netmap.json" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="0" endPos="0" selMode="0" lang="Javascript" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\player.json" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="143" endPos="143" selMode="0" lang="Lua" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\settings.lua" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="798" startPos="186" endPos="186" selMode="0" lang="Lua" encoding="-1" filename="E:\valbak\code\C\nf\rsrc\states.lua" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
